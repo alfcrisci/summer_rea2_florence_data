@@ -9,7 +9,7 @@
 # 
 # Authors : Alfonso Crisci (a.crisci@ibimet.cnr.it) & Marco Morabito (m.morabito@ibimet.cnr.it).
 # Institution: IBIMET CNR Institute of Biometeorology - Florence- www.ibimet.cnr.it
-# Data license: CC-BY 4.0 
+# Code license: CC-BY 4.0 
 ###########################################################################################################
 
 
