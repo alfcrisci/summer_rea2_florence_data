@@ -1,2 +1,2 @@
-# summer_rea2_florence_data
-Data and COde to retrieve reanalisy data for florence ( Italy)
+# Summer Weather Data 2016 - 2017
+Code to retrieve reanalisy data for Florence (Italy)
